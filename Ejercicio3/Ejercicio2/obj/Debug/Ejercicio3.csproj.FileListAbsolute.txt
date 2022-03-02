@@ -1,0 +1,26 @@
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.dll
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Reproductor.resources
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.dll
+C:\Users\marco\source\repos\Tema5\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\marco\source\repos\Tema5\Ejercicio3\Ejercicio2\bin\Debug\Ejercicio2.dll
+C:\Users\marco\source\repos\Tema5\Ejercicio3\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\marco\source\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\marco\source\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio2.Reproductor.resources
+C:\Users\marco\source\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio2.dll
+C:\Users\marco\source\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio2.pdb
+F:\2ºDAM 21-22\DI\repos\Tema5\Ejercicio3\Ejercicio2\bin\Debug\Ejercicio2.dll
+F:\2ºDAM 21-22\DI\repos\Tema5\Ejercicio3\Ejercicio2\bin\Debug\Ejercicio2.pdb
+F:\2ºDAM 21-22\DI\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+F:\2ºDAM 21-22\DI\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+F:\2ºDAM 21-22\DI\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio2.Reproductor.resources
+F:\2ºDAM 21-22\DI\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+F:\2ºDAM 21-22\DI\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+F:\2ºDAM 21-22\DI\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio2.dll
+F:\2ºDAM 21-22\DI\repos\Tema5\Ejercicio3\Ejercicio2\obj\Debug\Ejercicio2.pdb
